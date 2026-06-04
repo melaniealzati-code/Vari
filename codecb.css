@@ -1,0 +1,15 @@
+body.chatbox {
+background-color: red!important;
+}
+
+.chatbox-title, .chatbox-title a.chat-title {
+font-family: Montserrat,sans-serif;
+text-transform: uppercase;
+font-size: 15px;
+letter-spacing: 1px;
+font-weight: 500;
+}
+
+#chatbox_members {
+border-right: 1px solid #891414!important
+}
